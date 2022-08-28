@@ -655,7 +655,7 @@ div[class*="wide-"] + div[class*="row-column"]:not([class*="mg"]):not([class*="m
 .has-bg.bg-secondary:after { background-color: #e17804; }
 .has-bg.bg-alternet:after { background-color: #999; }
 .has-bg.bg-footer:after { background-color: #0f152b; }
-.has-bg.bg-light:after { background-color: #fff; }
+.has-bg.bg-light:after { background-color: #f7921a; }
 .has-bg.dark-filter:after { opacity: .50; }
 .has-bg.darker-filter:after { opacity: .9; }
 .has-bg.light-filter:after { opacity: .25; }
