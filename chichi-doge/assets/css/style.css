@@ -772,7 +772,7 @@ div[class*="wide-"] + div[class*="row-column"]:not([class*="mg"]):not([class*="m
 
 .copyright { padding: 15px 0; background: #222; }
 .copyright .site-copy { font-size: 14px; line-height: 30px; }
-.copyright .social li a { color: #fff; }
+.copyright .social li a { color: #fff; font-size: 40px; }
 .copyright .social li a:hover, .copyright .social li a:focus { color: #f7921a; }
 
 .pagination li.active a { background: #f7921a; border-color: #f7921a; }
